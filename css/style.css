@@ -1,6 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    font-family: Roboto, sans-serif;
 }
 
 form{
@@ -15,13 +16,21 @@ form{
     transform: translate(-50%, -50%);
 }
 
-
-nav ol li a{
-    text-decoration: none;
+.emailInput{
+    font-size: 20px;
 }
 
+.inputPassword{
+    font-size: 20px;
+}
+.submitBtn{
+    display: flex;
+    justify-content: flex-start;
+}
 
-
+nav a{
+    margin-left: 10px;
+}
 
 
 
