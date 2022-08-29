@@ -29,7 +29,12 @@ form{
 }
 
 nav a{
-    margin-left: 10px;
+    display: flex;
+    padding-right: 70%;
+}
+
+nav a, a a a{
+   margin-left: 15px;
 }
 
 
