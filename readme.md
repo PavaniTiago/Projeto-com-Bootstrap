@@ -3,7 +3,8 @@
 
 <br>
 
-### Coloquei js no projeto
+### Coloquei js no projeto:
+<br>
 <div>
-<img src="login/projetin.png">
+<img src="imagens/login.png">
 </div>
