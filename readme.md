@@ -1,9 +1,9 @@
 ## Projeto meu para aplicar meus conhecimentos em Bootstrap, css e Html.
 <br>
 
-## Em breve adicionarei JavaScript.
 <br>
 
+### Coloquei js no projeto
 <div>
-<img src="imagens/projetin.png">
+<img src="login/projetin.png">
 </div>
